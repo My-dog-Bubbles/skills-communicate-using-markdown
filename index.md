@@ -59,3 +59,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] sorry for the lost of creativity I got board
